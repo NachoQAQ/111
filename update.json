@@ -1,0 +1,19 @@
+{
+    "version": "1.0.1",
+
+    "description": [
+        "更新Mod",
+        "删除MOD"
+    ],
+
+    "delete": [
+        "mods/MOD.jar"
+    ],
+
+    "download": [
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/main/mods/Mod.jar",
+            "path": "mods/Mod.jar"
+        }
+    ]
+}
