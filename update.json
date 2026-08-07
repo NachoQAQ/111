@@ -12,7 +12,7 @@
 
     "download": [
         {
-            "url": "https://raw.githubusercontent.com/NachoQAQ/111/main/mods/Mod.jar",
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/main/Mod.jar",
             "path": "mods/Mod.jar"
         }
     ]
