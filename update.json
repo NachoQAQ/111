@@ -2,18 +2,51 @@
     "version": "1.0.1",
 
     "description": [
-        "更新Mod",
+        "添加MOD",
         "删除MOD"
     ],
 
     "delete": [
-        "mods/PlayerAnimationLibNeoforge-1.1.5+mc.1.21.1.jar"
+        "mods/lanserverproperties-1.11.1-fabric.jar"
     ],
 
     "download": [
         {
-            "url": "https://raw.githubusercontent.com/NachoQAQ/111/main/M1d.jar",
-            "path": "mods/M1d.jar"
+            "url": "https://cdn.modrinth.com/data/AANobbMI/versions/S3DUMfBo/sodium-neoforge-0.8.12%2Bmc1.21.1.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge",
+            "path": "mods/NA.jar"
+        }
+    ]
+}
+{
+    "version": "1.0.2",
+
+    "description": [
+        "删除MOD"
+    ],
+
+    "delete": [
+        "mods/NA.jar"
+    ],
+
+    "download": [
+        {
+        }
+    ]
+}
+{
+    "version": "1.0.3",
+
+    "description": [
+        "修改配置"
+    ],
+
+    "delete": [
+    ],
+
+    "download": [
+        {
+            "url": "https://raw.githubusercontent.com/infatuation326/TESTAAA111/refs/heads/main/sodium-options.json",
+            "path": "config/sodium-options.json"
         }
     ]
 }
