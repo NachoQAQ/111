@@ -1,0 +1,240 @@
+[
+  {
+    "id": "inventory",
+    "title": "任务",
+    "icon": "ftbquests:book",
+    "action": {
+      "type": "KEY",
+      "name": "key.ftbquests.quests",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "advancements",
+    "title": "成就",
+    "icon": "minecraft:clock",
+    "action": {
+      "type": "KEY",
+      "name": "key.advancements",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19fbc398ce1",
+    "title": "锚点放置",
+    "icon": "minecraft:beacon",
+    "action": {
+      "type": "KEY",
+      "name": "gui.xaero_new_waypoint",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19fbc3be5bb",
+    "title": "光影",
+    "icon": "minecraft:light",
+    "action": {
+      "type": "KEY",
+      "name": "iris.keybind.toggleShaders",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19fbc3dd965",
+    "title": "自动拾取",
+    "icon": "terra_curio:feral_claws",
+    "action": {
+      "type": "KEY",
+      "name": "key.better_looting.toggle_auto",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "key_19fbcebf3f1",
+    "title": "背包",
+    "icon": "sophisticatedbackpacks:backpack",
+    "action": {
+      "type": "KEY",
+      "name": "key.sophisticatedbackpacks.open_backpack",
+      "toggle": false,
+      "mode": "AUTO"
+    }
+  },
+  {
+    "id": "传送类设置",
+    "title": "传送类设置",
+    "icon": "deeperdarker:echo_boat",
+    "children": [
+      {
+        "id": "cmd_19fc969b92f",
+        "title": "设置家",
+        "icon": "touhou_little_maid:shrine",
+        "action": {
+          "type": "COMMAND",
+          "command": "/sethome",
+          "delayTicks": 0,
+          "cycleCommands": false
+        }
+      },
+      {
+        "id": "cmd_19fc96a7c85",
+        "title": "回家",
+        "icon": "waystones:portal_scroll",
+        "note": "有冷却",
+        "action": {
+          "type": "COMMAND",
+          "command": "/home",
+          "delayTicks": 0,
+          "cycleCommands": false
+        }
+      },
+      {
+        "id": "cmd_19fc96bf5b7",
+        "title": "回到死亡点",
+        "icon": "minecraft:soul_campfire",
+        "action": {
+          "type": "COMMAND",
+          "command": "/back",
+          "delayTicks": 0,
+          "cycleCommands": false
+        }
+      },
+      {
+        "id": "cmd_19fc96f325c",
+        "title": "回城",
+        "icon": "heralds_luna:wall_flag_goons_4_less",
+        "action": {
+          "type": "COMMAND",
+          "command": "/spawn",
+          "delayTicks": 0,
+          "cycleCommands": false
+        }
+      }
+    ]
+  },
+  {
+    "id": "音乐",
+    "title": "音乐",
+    "icon": "minecraft:note_block",
+    "children": [
+      {
+        "id": "key_19fef692026",
+        "title": "音乐主菜单",
+        "icon": "minecraft:music_disc_pigstep",
+        "action": {
+          "type": "KEY",
+          "name": "concerto.hotkey.index",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "key_19fef6a3145",
+        "title": "下一首歌",
+        "icon": "immersive_melodies:lute",
+        "action": {
+          "type": "KEY",
+          "name": "concerto.screen.next",
+          "toggle": false,
+          "mode": "AUTO"
+        }
+      },
+      {
+        "id": "团队音乐室",
+        "title": "团队音乐室",
+        "icon": "touhou_little_maid:shrine",
+        "children": [
+          {
+            "id": "cmd_19fef6e19b3",
+            "title": "创建音乐室",
+            "icon": "minecraft:stripped_oak_log",
+            "action": {
+              "type": "COMMAND",
+              "command": "/musicroom create",
+              "delayTicks": 0,
+              "cycleCommands": false
+            }
+          },
+          {
+            "id": "cmd_19fef6eda87",
+            "title": "加入音乐室，后加uuid",
+            "icon": "more_orn_plants:ginkgo_fence_gate",
+            "action": {
+              "type": "COMMAND",
+              "command": "/musicroom join",
+              "delayTicks": 0,
+              "cycleCommands": false
+            }
+          },
+          {
+            "id": "cmd_19fef70133c",
+            "title": "退出音乐室",
+            "icon": "more_orn_plants:peach_door",
+            "action": {
+              "type": "COMMAND",
+              "command": "/musicroom quit",
+              "delayTicks": 0,
+              "cycleCommands": false
+            }
+          },
+          {
+            "id": "cmd_19fef707f7f",
+            "title": "解散音乐室",
+            "icon": "minecraft:tnt",
+            "action": {
+              "type": "COMMAND",
+              "command": "/musicroom remove",
+              "delayTicks": 0,
+              "cycleCommands": false
+            }
+          }
+        ]
+      },
+      {
+        "id": "全服点歌",
+        "title": "全服点歌",
+        "icon": "heralds_luna:wall_flag_green",
+        "children": [
+          {
+            "id": "cmd_19fef717c8b",
+            "title": "加入全服点歌",
+            "icon": "more_orn_plants:ginkgo_fence_gate",
+            "action": {
+              "type": "COMMAND",
+              "command": "/musicroom agent join",
+              "delayTicks": 0,
+              "cycleCommands": false
+            }
+          },
+          {
+            "id": "cmd_19fef71eb50",
+            "title": "退出全服点歌",
+            "icon": "more_orn_plants:peach_door",
+            "action": {
+              "type": "COMMAND",
+              "command": "/musicroom agent quit",
+              "delayTicks": 0,
+              "cycleCommands": false
+            }
+          },
+          {
+            "id": "cmd_19fef72cac3",
+            "title": "添加自己播放的歌到全服点歌",
+            "icon": "minecraft:emerald",
+            "action": {
+              "type": "COMMAND",
+              "command": "/musicroom agent add",
+              "delayTicks": 0,
+              "cycleCommands": false
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
