@@ -98,3 +98,82 @@
         }
     ]
 }
+{
+    "version": "1.0.7",
+
+    "description": [
+        "移除旧版附魔特效",
+        "安装新版附魔特效(实验)"
+    ],
+
+    "delete": [
+        "mods/astoutline-2.0.2.jar"
+    ],
+
+    "download": [
+        {
+            "url": "https://mediafilez.forgecdn.net/files/8609/73/enchanted_outlines-0.1.6.jar",
+            "path": "mods/enchanted_outlines-0.1.6.jar"
+        }
+    ]
+}
+{
+    "version": "1.0.8",
+
+    "description": [
+        "更新"
+    ],
+
+    "delete": [
+        "mods/colortooltips-1211.3.4.jar"
+    ],
+
+    "download": [
+        {
+            "url": "https://cdn.modrinth.com/data/I7k4B65h/versions/dxkstU4u/jecharacters-1.21.1-neoforge-4.5.27.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+            "path": "mods/jecharacters-1.21.1-neoforge-4.5.27.jar"
+        },
+        {
+            "url": "https://cdn.modrinth.com/data/5vetjDBY/versions/sQ2dM0ur/obscure_tooltips-neoforge-1.21.1-4.2.2.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+            "path": "mods/obscure_tooltips-neoforge-1.21.1-4.2.2.jar"
+        },
+        {
+            "url": "https://cdn.modrinth.com/data/49C5QgTK/versions/CUGxFf8Z/fragmentum-neoforge-1.21.1-2.2.4.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+            "path": "mods/fragmentum-neoforge-1.21.1-2.2.4.jar"
+        },
+        {
+            "url": "https://cdn.modrinth.com/data/A0VZd1kW/versions/4a69Ou7Q/Concerto-mc1.21.1-neoforge-2.1.0.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+            "path": "mods/Concerto-mc1.21.1-neoforge-2.1.0.jar"
+        },
+        {
+            "url": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/4Jtboo51/loot_journal-neoforge-1.21.1-6.2.1.jar?mr_download_reason=standalone",
+            "path": "mods/loot_journal-neoforge-1.21.1-6.2.1.jar"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/modernobscure-compat-neoforge-1.3.5.jar",
+            "path": "mods/modernobscure-compat-neoforge-1.3.5.jar"
+        },
+        {
+            "url": "https://cdn.modrinth.com/data/98tY8ITu/versions/CM45YxeH/first-steps-neoforge-2.10.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+            "path": "mods/first-steps-neoforge-2.10.jar"
+        }
+    ]
+}
+{
+    "version": "1.0.9",
+
+    "description": [
+        "修改一些配置"
+    ],
+
+    "delete": [
+        "config/ezactions/menu.json"
+    ],
+
+    "download": [
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/config/menu.json",
+            "path": "config/ezactions/menu.json"
+        }
+    ]
+}
