@@ -177,3 +177,21 @@
         }
     ]
 }
+{
+    "version": "1.1.0",
+
+    "description": [
+        "删除一些模组"
+    ],
+
+    "delete": [
+        "mods/ItemPhysic_NEOFORGE_v1.8.13_mc1.21.1.jar"
+    ],
+
+    "download": [
+        {
+            "url": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/ugjogTAd/physics-mod-3.0.31-mc-1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+            "path": "mods/physics-mod-3.0.31-mc-1.21.1-neoforge.jar"
+        }
+    ]
+}
