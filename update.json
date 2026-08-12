@@ -190,8 +190,8 @@
 
     "download": [
         {
-            "url": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/ugjogTAd/physics-mod-3.0.31-mc-1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
-            "path": "mods/physics-mod-3.0.31-mc-1.21.1-neoforge.jar"
+            "url": "https://cdn.modrinth.com/data/Xy8aRQKS/versions/eLggUqoL/physics-mod-3.0.29-mc-1.21.1-neoforge.jar?mr_download_reason=standalone&mr_game_version=1.21.1",
+            "path": "mods/physics-mod-3.0.29-mc-1.21.1-neoforge.jar"
         }
     ]
 }
