@@ -350,8 +350,8 @@
 
     "download": [
         {
-            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/siege_warfare-2.5-SNAPSHOT.jar",
-            "path": "mods/siege_warfare-2.5-SNAPSHOT.jar"
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/siege_warfare-2.5.jar",
+            "path": "mods/siege_warfare-2.5.jar"
         }
     ]
 }
