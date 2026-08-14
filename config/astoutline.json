@@ -1,0 +1,22 @@
+{
+  "enabled": false,
+  "radius": 4.0,
+  "intensity": 1.0,
+  "outlineGlow": false,
+  "glowAmount": 1.0,
+  "blur": 1.0,
+  "sharpCorners": true,
+  "hsvH": 0.861,
+  "hsvS": 0.6,
+  "hsvV": 1.0,
+  "colorMode": "MANUAL",
+  "enchantParticles": true,
+  "glowIntensity": 0.4,
+  "particleScale": 1.0,
+  "particleDensity": 1.0,
+  "distanceFade": 0.7,
+  "mobBodyOcclusion": true,
+  "playerMaskUnderShaders": true,
+  "customItemIds": [],
+  "rarityOverrides": {}
+}
