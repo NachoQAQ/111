@@ -195,3 +195,110 @@
         }
     ]
 }
+{
+    "version": "1.1.1",
+
+    "description": [
+        "更新"
+    ],
+
+    "delete": [
+        "config/physicsmod/physics_blocks_client_config.json",
+        "config/physicsmod/physics_mobs_client_config.json",
+        "config/physicsmod/physics_client_config.json", 
+        "config/astoutline.json",
+        "mods/enchanted_outlines-0.1.6.jar",
+        "config/fancymenu/customization/title_screen_layout.txt"
+    ],
+
+    "download": [
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/physics_blocks_client_config.json",
+            "path": "config/physicsmod/physics_blocks_client_config.json"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/physics_mobs_client_config.json",
+            "path": "config/physicsmod/physics_mobs_client_config.json"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/physics_client_config.json",
+            "path": "config/physicsmod/physics_client_config.json"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/astoutline.json",
+            "path": "config/astoutline.json"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/notenoughanimations.json",
+            "path": "config/notenoughanimations.json"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/title_screen_layout.txt",
+            "path": "config/fancymenu/customization/title_screen_layout.txt"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/11123.png",
+            "path": "config/fancymenu/assets/11123.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/multiplayer.png",
+            "path": "config/fancymenu/assets/multiplayer.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/multiplayer_hovered.png",
+            "path": "config/fancymenu/assets/multiplayer_hovered.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/options_hovered.png",
+            "path": "config/fancymenu/assets/options_hovered.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/options.png",
+            "path": "config/fancymenu/assets/options.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/quit_hovered.png",
+            "path": "config/fancymenu/assets/quit_hovered.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/quit.png",
+            "path": "config/fancymenu/assets/quit.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/singleplayer_hovered.png",
+            "path": "config/fancymenu/assets/singleplayer_hovered.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/config/singleplayer.png",
+            "path": "config/fancymenu/assets/singleplayer.png"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/mods/dynamicsurroundings-neoforge-1.21.1-0.4.2.jar",
+            "path": "mods/dynamicsurroundings-neoforge-1.21.1-0.4.2.jar"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/mods/astoutline-2.0.2.jar",
+            "path": "mods/astoutline-2.0.2.jar"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar",
+            "path": "mods/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/mods/Perception-NEOFORGE-0.2.1+1.21.1.jar",
+            "path": "mods/Perception-NEOFORGE-0.2.1+1.21.1.jar"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/mods/supplementaries-1.21.1-3.8.9-neoforge.jar",
+            "path": "mods/supplementaries-1.21.1-3.8.9-neoforge.jar"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/mods/moonlight-1.21.1-3.3.3-neoforge.jar",
+            "path": "mods/moonlight-1.21.1-3.3.3-neoforge.jar"
+        },
+        {
+            "url": "https://cdn.jsdelivr.net/gh/NachoQAQ/111/mods/dummmmmmy-neoforge-1.21-2.1.0.jar",
+            "path": "mods/dummmmmmy-neoforge-1.21-2.1.0.jar"
+        }
+    ]
+}
