@@ -337,3 +337,21 @@
         }
     ]
 }
+{
+    "version": "1.1.4",
+
+    "description": [
+        "更新"
+    ],
+
+    "delete": [
+        "mods/siege_warfare-1.5-SNAPSHOT.jar"
+    ],
+
+    "download": [
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/siege_warfare-2.5-SNAPSHOT.jar",
+            "path": "mods/siege_warfare-2.5-SNAPSHOT.jar"
+        }
+    ]
+}
