@@ -396,3 +396,83 @@
         }
     ]
 }
+{
+    "version": "1.1.7",
+
+    "description": [
+        "更新"
+    ],
+
+    "delete": [
+        "config/dsurround/dsurround.json",
+        "config/fancymenu/customization/title_screen_layout.txt"
+    ],
+
+    "download": [
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/kubejs/assets/111.nbt",
+            "path": "kubejs/assets/111.nbt"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/kubejs/client_scripts/main.js",
+            "path": "kubejs/client_scripts/main.js"
+        },
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/kubejs/client_scripts/111.js",
+            "path": "kubejs/client_scripts/111.js"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/config/fancymenu/customization/title_screen_layout.txt",
+            "path": "config/fancymenu/customization/title_screen_layout.txt"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/config/fancymenu/assets/p11.png",
+            "path": "config/fancymenu/assets/p11.png"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/config/fancymenu/assets/s111.png",
+            "path": "config/fancymenu/assets/s111.png"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/config/fancymenu/assets/11123.png",
+            "path": "config/fancymenu/assets/11123.png"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/config/fancymenu/assets/avc.png",
+            "path": "config/fancymenu/assets/avc.png"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/config/fancymenu/assets/o11.png",
+            "path": "config/fancymenu/assets/o11.png"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/config/dsurround/dsurround.json",
+            "path": "config/dsurround/dsurround.json"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/ftb-library-neoforge-2101.1.35.jar",
+            "path": "mods/ftb-library-neoforge-2101.1.35.jar"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/[FTB 任务] ftb-quests-neoforge-2101.1.31.jar",
+            "path": "mods/[FTB 任务] ftb-quests-neoforge-2101.1.31.jar"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/StreamsReflowing-1.21.1-neoforge-2.12.6.jar",
+            "path": "mods/StreamsReflowing-1.21.1-neoforge-2.12.6.jar"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/item_get-1.0.5-neoforge-hotfix.jar",
+            "path": "mods/item_get-1.0.5-neoforge-hotfix.jar"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/chesspvp-1.21.1-neoforge-1.0.0.jar",
+            "path": "mods/chesspvp-1.21.1-neoforge-1.0.0.jar"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/quest_enhance-1.21.1-neoforge-3.6fix.jar",
+            "path": "mods/quest_enhance-1.21.1-neoforge-3.6fix.jar"
+        }
+    ]
+}
