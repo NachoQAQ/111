@@ -381,13 +381,18 @@
     ],
 
     "delete": [
-        "mods/siege_warfare-3.0.jar"
+        "mods/siege_warfare-3.0.jar",
+        "mods/packsync-1.1.0.jar"
     ],
 
     "download": [
         {
             "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/siege_warfare-3.5.jar",
             "path": "mods/siege_warfare-3.5.jar"
+        },
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/packsync-1.0.1.jar",
+            "path": "mods/packsync-1.0.1.jar"
         }
     ]
 }
