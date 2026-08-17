@@ -492,3 +492,20 @@
         }
     ]
 }
+{
+    "version": "1.1.9",
+
+    "description": [
+        "更新"
+    ],
+
+    "delete": [
+    ],
+
+    "download": [
+        {
+            "url": "https://raw.githubusercontent.com/NachoQAQ/111/refs/heads/main/mods/setcraftjsfix-1.0.0.jar",
+            "path": "mods/setcraftjsfix-1.0.0.jar"
+        }
+    ]
+}
